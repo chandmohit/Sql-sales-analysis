@@ -57,7 +57,7 @@ SQL Analysis Screenshot
 
 Monthly sales
 
-Top 5 customer 
+Top customer Analysis
 
 Top category by region 
 
