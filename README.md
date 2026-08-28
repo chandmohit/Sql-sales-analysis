@@ -55,4 +55,15 @@ I worked with basic SQL functions as well as subqueries, CTEs, and window functi
 
 ## SQL Analysis Screenshot 
 
+Q4- Monthly Sales 
 ![monthly sales](https://github.com/chandmohit/Sql-sales-analysis/blob/main/Q4_Monthly_sales.png?raw=true)
+
+q6- Top 5 customer 
+![top customer Analysis](https://github.com/chandmohit/Sql-sales-analysis/blob/main/Q6_Top_customer.png?raw=true)
+
+Q10 - Category by region 
+![top category by region](https://github.com/chandmohit/Sql-sales-analysis/blob/main/Q10_category_by_region.png?raw=true)
+
+
+Q14 - Average order value 
+![Average order value](https://github.com/chandmohit/Sql-sales-analysis/blob/main/Q14_Average_order_value.png?raw=true)
