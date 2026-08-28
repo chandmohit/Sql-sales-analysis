@@ -58,7 +58,7 @@ I worked with basic SQL functions as well as subqueries, CTEs, and window functi
 Q4- Monthly Sales 
 ![monthly sales](https://github.com/chandmohit/Sql-sales-analysis/blob/main/Q4_Monthly_sales.png?raw=true)
 
-q6- Top 5 customer 
+Q6- Top 5 customer 
 ![top customer Analysis](https://github.com/chandmohit/Sql-sales-analysis/blob/main/Q6_Top_customer.png?raw=true)
 
 Q10 - Category by region 
