@@ -55,7 +55,7 @@ I worked with basic SQL functions as well as subqueries, CTEs, and window functi
 
 SQL Analysis Screenshot 
 
-Monthly sales 
+Monthly sales
 
 Top 5 customer 
 
