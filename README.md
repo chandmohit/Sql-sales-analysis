@@ -52,3 +52,12 @@ Key Findings
 What I Learned
 This project gave me practice using SQL to answer business questions from a sales dataset.
 I worked with basic SQL functions as well as subqueries, CTEs, and window functions. It also helped me understand how to use SQL results to look at sales performance from different business perspectives.
+
+SQL Analysis Screenshot 
+Monthly sales 
+
+Top 5 customer 
+
+Top category by region 
+
+Average order value
