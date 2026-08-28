@@ -55,5 +55,4 @@ I worked with basic SQL functions as well as subqueries, CTEs, and window functi
 
 ## SQL Analysis Screenshot 
 
-_Monthly_sales.png
-
+![monthly sales](https://github.com/chandmohit/Sql-sales-analysis/blob/main/Q4_Monthly_sales.png?raw=true)
